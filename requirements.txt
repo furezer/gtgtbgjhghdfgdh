@@ -1,0 +1,4 @@
+aiogram==2.19
+Telethon==1.24.0
+pyQiwiP2P==1.0.1
+pycbrf==1.1.0
